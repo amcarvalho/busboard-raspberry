@@ -33,7 +33,7 @@ python main.py
 ```
 
 * You can get a Transport API app ID and Secret [here](https://developer.transportapi.com/).
-* You can use OpenStreeMap to get the ATCO code of a bus stop near. Instructions 
+* You can use OpenStreeMap to get the ATCO code of a bus stop nearby. Instructions 
 [here](https://developer.transportapi.com/docs?raml=https://transportapi.com/v3/raml/transportapi.raml##bus_information).
 Use the Bus Information dropdown for alternative ways to get ATCO codes.
 
@@ -45,7 +45,7 @@ horizontally scroll it
 
 * By default, the application only makes Transport API calls between 8am and 8pm. If allowed
 to make calls during all hours of the day, the free 30k/month calls wouldn't be enough. You may
-adjust the hours by setting the environment `TRANSPORT_API_HOURS_WITHOUT_UPDATES` variable
+adjust the hours by setting the `TRANSPORT_API_HOURS_WITHOUT_UPDATES` environment variable
 
 * The screen is refreshed every 0.3s in order to horizontally scroll the direction/destination
 column
