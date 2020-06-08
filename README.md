@@ -3,6 +3,7 @@ An application to fetch realtime bus departures information and display them on 
 screen connected to a Raspberry via the i2c interface.
 
 Click on the image below to see a video:
+
 [![Bus Live Departures on Raspberry Pi](https://img.youtube.com/vi/_5oT6uOLVwk/0.jpg)](https://youtu.be/_5oT6uOLVwk) 
 
 ## Instructions
