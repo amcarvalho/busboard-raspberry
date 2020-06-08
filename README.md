@@ -24,7 +24,7 @@ export TRANSPORT_API_APP_KEY=<transport_api_app_key>
 export TRANSPORT_API_BUS_STOP=<bus stop ATCO code> # Example: 490009931N
 
 # Optional
-TRANSPORT_API_HOURS_WITHOUT_UPDATES=<comma separated hours> # Default: 20,21,22,23,00,01,02,03,04,05,06,07
+export TRANSPORT_API_HOURS_WITHOUT_UPDATES=<comma separated hours> # Default: 20,21,22,23,00,01,02,03,04,05,06,07
 ```
 
 Run application:
