@@ -9,7 +9,7 @@ Click on the image below to see a video:
 ## Instructions
 Clone this repo in your Raspberry:
 ```shell script
-https://github.com/amcarvalho/busboard-raspberry
+git clone https://github.com/amcarvalho/busboard-raspberry
 ```
 
 Install requirements (it's a good idea to do this within a virtual environment):
